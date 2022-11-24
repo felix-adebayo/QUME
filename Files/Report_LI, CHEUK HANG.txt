@@ -1,0 +1,455 @@
+
+             Computers                                                                                             Sunday, November 20, 2022
+
+                                                                                                                                  9:05:34 PM
+
+
+ Product_ID      Product                                                     Price ($)                    Brand                            Type                         Category
+
+ Del1            Inspiron 15 3000 Laptop                               $299.99                            Dell                       Inspiron Laptop                     Laptops
+
+
+
+
+
+
+ Del10           XPS Desktop                                           $1,049.99                          Dell                         XPS Desktop                      Desktops
+
+
+
+
+
+ Del11           New Precision 3260 Compact Workstation                $1,779.00                          Dell                      Precision Desktop                   Desktops
+
+
+
+
+
+ Del12           Dell 27 Monitor - SE2722H                             $209.99                            Dell                     Dell Monitor 27 inch              PC Accessories
+
+
+
+
+
+ Del13           Dell Performance Dock - WD19DC Module                 $169.99                            Dell                           USB Dock                    PC Accessories
+
+
+
+
+
+ Del14           VisionTek DisplayPort cable - 2 m - 4K support        $19.99                             Dell                      DisplayPort Cable                PC Accessories
+
+
+
+
+
+ Del15           Dell Pro Wireless Keyboard and Mouse –                $79.99                             Dell                   Wireless Keyboard Mouse             PC Accessories
+                 KM5221W
+
+
+
+
+ Del16           New Alienware Wired/Wireless Gaming Mouse             $129.99                            Dell                         Gaming Mouse                  PC Accessories
+                 | AW610M
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                          Page 1 of 7
+
+
+
+ Product_ID      Product                                                     Price ($)                    Brand                            Type                         Category
+
+ Del17           Cyber Acoustics ACM 500RB - Headphones -              $17.99                             Dell                           Headset                     PC Accessories
+                 full size - wired - 3.5 mm jack
+
+
+
+
+ Del18           Dell EcoLoop Pro Backpack                             $84.99                             Dell                           Backpack                    PC Accessories
+
+
+
+
+
+ Del19           Dell 4.5MM Barrel 90W Power Adapter with 6ft          $89.99                             Dell                        Power Adapter                  PC Accessories
+                 cord
+
+
+
+
+ Del2            Vostro 3510                                           $749.00                            Dell                        Vostro Laptop                      Laptops
+
+
+
+
+
+
+ Del20           Dell Pro Webcam - WB5023                              $179.99                            Dell                            Webcam                     PC Accessories
+
+
+
+
+
+ Del21           Download Microsoft Office Home and Business           $319.00                            Dell                           Software                    PC Accessories
+                  2021 All Languages Online Product Key
+                 License 1 License
+
+
+
+ Del3            Latitude 3420                                         $919.00                            Dell                       Latitude Laptop                     Laptops
+
+
+
+
+
+ Del4            XPS 13 Laptop                                         $1,249.00                          Dell                          XPS Laptop                       Laptops
+
+
+
+
+
+ Del5            Latitude 5400 Chromebook Enterprise                   $1,368.92                          Dell                      Chromebook Laptop                    Laptops
+
+
+
+
+
+
+
+
+
+                                                                                                                                          Page 2 of 7
+
+
+
+ Product_ID      Product                                                     Price ($)                    Brand                            Type                         Category
+
+ Del6            Precision 3560 Workstation - Configurable             $1,829.00                          Dell                       Precision Laptop                    Laptops
+
+
+
+
+
+ Del7            Inspiron Desktop                                      $649.99                            Dell                       Inspiron Desktop                   Desktops
+
+
+
+
+
+ Del8            OptiPlex 3000 Thin Client                             $867.12                            Dell                       OptiPlex Desktop                   Desktops
+
+
+
+
+
+ Del9            New Vostro Small Form Factor                          $899.00                            Dell                        Vostro Desktop                    Desktops
+
+
+
+
+
+
+ HP1             HP Stream 14-fq0008ca laptop (non touch) - 1          $369.99                             HP                      HP Stream 14 Laptop                   Laptops
+                  year Office 365 included
+
+
+
+
+ HP10            HP Z2 Tower G5 Workstation                            $1,509.00                           HP                         HP Z2 Desktop                     Desktops
+
+
+
+
+
+ HP11            HP EliteDesk 800 G6 Desktop Mini PC                   $1,854.00                           HP                      HP EliteDesk Desktop                 Desktops
+
+
+
+
+
+ HP12            HP M27fw 75Hz FHD IPS Monitor                         $219.99                             HP                           HP Monitor                   PC Accessories
+
+
+
+
+
+ HP13            HP USB-C Dock G5                                      $329.00                             HP                           USB-C Dock                   PC Accessories
+
+
+
+
+
+
+
+
+
+                                                                                                                                          Page 3 of 7
+
+
+
+ Product_ID      Product                                                     Price ($)                    Brand                            Type                         Category
+
+ HP14            HP Reverb G2 1 Meter Cable                            $50.00                              HP                         HP Meter Cable                 PC Accessories
+
+
+
+
+
+ HP15             HP 650 Wireless Keyboard and Mouse                   $44.99                              HP                    Wireless Keyboard Mouse             PC Accessories
+                 Combo
+
+
+
+
+ HP16            HyperX Pulsefire Surge - Gaming Mouse                 $79.99                              HP                          Gaming Mouse                  PC Accessories
+                 (Black)
+
+
+
+
+ HP17            HP Bluetooth Headset 500                              $34.99                              HP                            Headset                     PC Accessories
+
+
+
+
+
+
+ HP18            HP Commuter Backpack                                  $45.99                              HP                            Backpack                    PC Accessories
+
+
+
+
+
+ HP19            HP USB-C to RJ45 Adapter                              $29.00                              HP                         USB-C Adapter                  PC Accessories
+
+
+
+
+
+ HP2             HP Chromebook 14A G5                                  $439.00                             HP                       Chromebook Laptop                    Laptops
+
+
+
+
+
+ HP20            HP 320 FHD Webcam                                     $53.99                              HP                             Webcam                     PC Accessories
+
+
+
+
+
+ HP21            Download Microsoft Office Home and Business           $319.00                             HP                            Software                    PC Accessories
+                  2021 All Languages Online Product Key
+                 License 1 License
+
+
+
+
+
+
+
+                                                                                                                                          Page 4 of 7
+
+
+
+ Product_ID      Product                                                     Price ($)                    Brand                            Type                         Category
+
+ HP3             HP Pavilion Laptop 15-eg2010ca                        $829.99                             HP                       HP Pavilion Laptop                   Laptops
+
+
+
+
+
+ HP4             HP ProBook 445 14 inch G9 Notebook PC                 $999.00                             HP                       HP ProBook Laptop                    Laptops
+                 Wolf Pro Security Edition
+
+
+
+
+ HP5             HP EliteBook 840 G8 Notebook PC Wolf Pro              $1,899.00                           HP                      HP EliteBook Laptop                   Laptops
+                 Security Edition
+
+
+
+
+ HP6             HP ZBook Firefly 14 G8 Mobile Workstation             $2,259.00                           HP                        HP Zbook Laptop                     Laptops
+                 Wolf Pro Security Edition
+
+
+
+
+
+ HP7             HP Pavilion TP01-2029 Desktop                         $934.99                             HP                      HP Pavilion Desktop                  Desktops
+
+
+
+
+
+ HP8             HP ENVY Desktop TE01-2079                             $1,094.99                           HP                        HP ENVY Desktop                    Desktops
+
+
+
+
+
+ HP9             HP ProDesk 400 G6 Desktop Mini PC                     $1,139.00                           HP                       HP ProDesk Desktop                  Desktops
+
+
+
+
+
+ Len1            100e Gen 2 AMD (11”)                                  $289.00                           Lenovo                        Gen 2 Laptop                      Laptops
+
+
+
+
+
+ Len10           ThinkCentre Neo 50s (Intel) Small Form Factor         $1,007.00                         Lenovo                      Neo 50s Desktop                    Desktops
+
+
+
+
+
+
+
+
+
+                                                                                                                                          Page 5 of 7
+
+
+
+ Product_ID      Product                                                     Price ($)                    Brand                            Type                         Category
+
+ Len11           Lenovo C27-30 27 inch FHD Monitor                     $309.00                           Lenovo                    FHD Monitor 27 inch               PC Accessories
+
+
+
+
+
+ Len12           Lenovo USB-C Mini Dock                                $229.99                           Lenovo                      USB-C Mini Dock                 PC Accessories
+
+
+
+
+
+ Len13           Lenovo Hybrid USB-C with USB-A Cable                  $57.99                            Lenovo                        Hybrid USB-C                  PC Accessories
+
+
+
+
+
+ Len14           Lenovo Wireless Keyboard Mouse Combo                  $66.99                            Lenovo                  Wireless Keyboard Mouse             PC Accessories
+
+
+
+
+
+
+ Len15           Lenovo Legion M200 Mouse                              $33.99                            Lenovo                        Gaming Mouse                  PC Accessories
+
+
+
+
+
+ Len16           Lenovo 110 Stereo USB Headset                         $39.99                            Lenovo                     Stereo USB Headset               PC Accessories
+
+
+
+
+
+ Len17           Lenovo 15.6" Laptop Backpack B515 (Black)             $48.99                            Lenovo                      Laptop Backpack                 PC Accessories
+
+
+
+
+
+ Len18           Lenovo 65W AC Wall Adapter                            $55.99                            Lenovo                        Wall Adapter                  PC Accessories
+
+
+
+
+
+ Len19           Lenovo Select FHD Webcam                              $66.99                            Lenovo                           Webcam                     PC Accessories
+
+
+
+
+
+
+
+
+
+                                                                                                                                          Page 6 of 7
+
+
+
+ Product_ID      Product                                                     Price ($)                    Brand                            Type                         Category
+
+ Len2            ThinkPad C13 Yoga Chromebook (13”) -                  $799.00                           Lenovo                     Chromebook Laptop                    Laptops
+                 Abyss Blue
+
+
+
+
+ Len20           Download Microsoft Office Home and Business           $319.00                           Lenovo                          Software                    PC Accessories
+                  2021 All Languages Online Product Key
+                 License 1 License
+
+
+
+ Len3            Yoga 6 (13” AMD) - Dark Teal with Aluminum            $819.99                           Lenovo                        Yoga Laptop                       Laptops
+                 Top Cover
+
+
+
+
+ Len4            ThinkBook 15 Gen 4 AMD (15”)                          $730.80                           Lenovo                        Gen 4 Laptop                      Laptops
+
+
+
+
+
+
+ Len5            Lenovo Slim 7 (14” Intel)                             $1,560.00                         Lenovo                     Lenovo Slim Laptop                   Laptops
+
+
+
+
+
+ Len6            IdeaCentre 3i (Intel) Tower                           $1,014.99                         Lenovo                    IdeaCentre 3 Desktop                 Desktops
+
+
+
+
+
+ Len7            ThinkCentre M75s Gen 2 Small Form Factor              $701.00                           Lenovo                     M75s Gen 2 Desktop                  Desktops
+
+
+
+
+
+ Len8            ThinkCentre M90t Tower                                $837.00                           Lenovo                        M90t Desktop                     Desktops
+
+
+
+
+
+ Len9            ThinkStation P358 Tower (AMD)                         $949.00                           Lenovo                        P358 Desktop                     Desktops
+
+
+
+
+
+
+                                                                                  $37,433.52
+
+
+                                                                                                                                          Page 7 of 7
+
